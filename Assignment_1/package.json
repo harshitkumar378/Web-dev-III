@@ -1,0 +1,17 @@
+{
+  "name": "assignment_1",
+  "version": "1.0.0",
+  "description": "Node.js core-module utilities for Web Dev III Assignment 1.",
+  "main": "app.js",
+  "scripts": {
+    "calculator": "node calculator.js",
+    "app": "node app.js",
+    "server": "node server.js",
+    "file-manager": "node fileManager.js",
+    "dice": "node dice.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

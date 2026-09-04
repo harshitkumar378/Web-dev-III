@@ -1,0 +1,2 @@
+This sample file is included for fileManager.js demonstrations.
+[2026-09-04T11:50:19.489Z] Dice rolls: 2, 5, 4
