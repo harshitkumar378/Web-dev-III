@@ -2,7 +2,7 @@
 
 Web Dev III Assignment 1, implemented only with Node.js core modules. No external npm packages, frameworks, or databases are used. ANSI colors improve terminal readability, and timestamp logs show program flow.
 
-## Required project structure
+## project structure
 
 ```text
 Assignment_1/
