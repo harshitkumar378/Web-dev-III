@@ -100,12 +100,3 @@ student-management-api/
 5. **Error handling** — every route checks if the student exists /
    input is valid, and returns the right status code (400 for bad input,
    404 for not found) instead of crashing.
-
-## Submission Checklist
-- [x] Express server created
-- [x] All 5 CRUD APIs implemented
-- [x] Custom logger middleware
-- [x] Modular routing (routes/ folder + express.Router())
-- [x] Proper status codes (200, 201, 400, 404)
-- [x] Tested in Postman
-- [ ] Push to GitHub and submit the link
