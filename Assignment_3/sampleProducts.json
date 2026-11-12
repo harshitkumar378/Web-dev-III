@@ -1,0 +1,14 @@
+[
+  { "name": "Study Table", "sku": "FURN-TB-812", "category": "Furniture", "price": 3999, "quantity": 2, "reorderLevel": 4, "supplier": "IKEA India" },
+  { "name": "Smartphone", "sku": "ELEC-SP-101", "category": "Electronics", "price": 14999, "quantity": 15, "reorderLevel": 5, "supplier": "Samsung India" },
+  { "name": "Bluetooth Speaker", "sku": "ELEC-BS-102", "category": "Electronics", "price": 3999, "quantity": 30, "reorderLevel": 10, "supplier": "boAt" },
+  { "name": "Wireless Earbuds", "sku": "ELEC-EB-103", "category": "Electronics", "price": 2499, "quantity": 40, "reorderLevel": 10, "supplier": "boAt" },
+  { "name": "Power Bank", "sku": "ELEC-PB-104", "category": "Electronics", "price": 1049, "quantity": 3, "reorderLevel": 8, "supplier": "Mi India" },
+  { "name": "Cotton T-Shirt", "sku": "APRL-TS-201", "category": "Apparel", "price": 599, "quantity": 60, "reorderLevel": 15, "supplier": "Max Fashion" },
+  { "name": "Denim Jeans", "sku": "APRL-JN-202", "category": "Apparel", "price": 2199, "quantity": 18, "reorderLevel": 10, "supplier": "Levis India" },
+  { "name": "Office Chair", "sku": "FURN-CH-813", "category": "Furniture", "price": 5499, "quantity": 12, "reorderLevel": 5, "supplier": "Godrej Interio" },
+  { "name": "Notebook Pack of 6", "sku": "STNY-NB-714", "category": "Stationery", "price": 299, "quantity": 4, "reorderLevel": 20, "supplier": "Classmate" },
+  { "name": "Ball Pen Box", "sku": "STNY-BP-715", "category": "Stationery", "price": 150, "quantity": 80, "reorderLevel": 25, "supplier": "Reynolds" },
+  { "name": "Basmati Rice 5kg", "sku": "GROC-RC-301", "category": "Groceries", "price": 649, "quantity": 50, "reorderLevel": 15, "supplier": "India Gate" },
+  { "name": "Tea Powder 1kg", "sku": "GROC-TE-302", "category": "Groceries", "price": 420, "quantity": 6, "reorderLevel": 10, "supplier": "Tata Tea" }
+]
